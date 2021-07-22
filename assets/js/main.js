@@ -4,6 +4,17 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+var keyword = prompt("siteye devam edebilmek için anahtar kelimeyi yaz: ");
+
+while (true) {
+    if (keyword === "aşkım") {
+        alert("oyy senmişsinn sitemize tekrar hoşgeldin bebek <3 <3 <3");
+        break;
+    } else {
+        alert("her kimsen siteyi terket amk");
+    }
+}
+
 (function($) {
 
 	var	$window = $(window),
