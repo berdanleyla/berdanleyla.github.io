@@ -7,8 +7,8 @@
 var keyword = prompt("siteye devam edebilmek için anahtar kelimeyi yaz: ");
 
 while (true) {
-    if (keyword === "aşkım") {
-        alert("oyy senmişsinn sitemize tekrar hoşgeldin bebek <3 <3 <3");
+    if (keyword === "berfin") {
+        alert("oyy sitemize tekrar hoşgeldin bebek <3 <3 <3");
         break;
     } else {
         alert("her kimsen siteyi terket amk");
