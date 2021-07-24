@@ -11,7 +11,7 @@ while (true) {
         alert("oyy sitemize tekrar hoşgeldin bebek <3 <3 <3");
         break;
     } else {
-        alert("her kimsen siteyi terket amk");
+        alert("üzgünüm sen sevgilim değilsin siteye giriş yapamazsın");
     }
 }
 
